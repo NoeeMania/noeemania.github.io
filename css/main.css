@@ -300,7 +300,7 @@ sup > a::before,
   color: #ff4500;
 }
 html {
-  font-size: 16px;
+  font-size: 19px;
 }
 html,
 body {
@@ -357,7 +357,7 @@ img[lazyload] {
   --post-link-color: #0366d6;
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
-  --navbar-bg-color: #2f4154;
+  --navbar-bg-color: #447ea5;
   --navbar-text-color: #fff;
 }
 @media (prefers-color-scheme: dark) {
